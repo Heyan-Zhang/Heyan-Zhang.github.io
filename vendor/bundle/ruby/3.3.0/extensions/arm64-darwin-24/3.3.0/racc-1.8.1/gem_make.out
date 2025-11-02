@@ -1,0 +1,18 @@
+current directory: /Users/heyan/Downloads/heyanzhang.github.io-main/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/opt/homebrew/opt/ruby@3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/heyan/Downloads/heyanzhang.github.io-main/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251101-52809-9ge3i4 sitelibdir\=./.gem.20251101-52809-9ge3i4 clean
+
+current directory: /Users/heyan/Downloads/heyanzhang.github.io-main/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251101-52809-9ge3i4 sitelibdir\=./.gem.20251101-52809-9ge3i4
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/heyan/Downloads/heyanzhang.github.io-main/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251101-52809-9ge3i4 sitelibdir\=./.gem.20251101-52809-9ge3i4 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251101-52809-9ge3i4/racc
+
+current directory: /Users/heyan/Downloads/heyanzhang.github.io-main/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251101-52809-9ge3i4 sitelibdir\=./.gem.20251101-52809-9ge3i4 clean
